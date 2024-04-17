@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank CARDS related PROD APIs"
+  contactDetails:
+    name: "John3-PROD"
+    email: "john3@email.email"
+  onCallSupport:
+    - (555)555-5555
+    - (666)666-6666

@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank LOANS related LOCAL APIs"
+  contactDetails:
+    name: "John1-Developer"
+    email: "john1@email.email"
+  onCallSupport:
+    - (111)111-1111
+    - (222)222-2222
+

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "John2-QA"
+    email: "john2@email.email"
+  onCallSupport:
+    - (333)333-3333
+    - (444)444-4444

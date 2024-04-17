@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related LOCAL APIs"
+  contactDetails:
+    name: "John1-Developer"
+    email: "john1@email.email"
+  onCallSupport:
+    - (111)111-1111
+    - (222)222-2222

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank LOANS related QA APIs"
+  contactDetails:
+    name: "John2-QA"
+    email: "john2@email.email"
+  onCallSupport:
+    - (111)111-1111
+    - (222)222-2222
